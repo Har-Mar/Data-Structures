@@ -46,11 +46,11 @@ public class QueueUsingArray {
 	Results after excuting this main
 	
 	Elements in the queue are : 
-    4 8 12 16 20
+        4 8 12 16 20
 
-    Dequeued element is: 4
+        Dequeued element is: 4
 
-    Dequeued element is: 8
+        Dequeued element is: 8
 	**/
 	public static void main(String[] args) {
 
