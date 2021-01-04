@@ -1,2 +1,2 @@
 # JavaPrograms
-This repository contains different applications of data structures using java.
+This repository contains implementations of different java concepts.
